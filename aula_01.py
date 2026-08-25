@@ -48,4 +48,3 @@ print("Trocas:", trocas)
 print("insertion_sort:")
 print(insertion_sort(numeros))
 print("Trocas:", trocas)
-
